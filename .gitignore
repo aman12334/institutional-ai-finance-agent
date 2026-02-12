@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Generated reports
+*.pdf
+*.png
+
+# Cache
+cache/
+
+# Mac system files
+.DS_Store
